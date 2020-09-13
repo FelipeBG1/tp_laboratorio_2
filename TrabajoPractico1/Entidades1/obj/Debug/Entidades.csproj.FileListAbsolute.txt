@@ -1,0 +1,6 @@
+C:\Users\felib\source\repos\TrabajoPractico1\Entidades1\bin\Debug\Entidades1.dll
+C:\Users\felib\source\repos\TrabajoPractico1\Entidades1\bin\Debug\Entidades1.pdb
+C:\Users\felib\source\repos\TrabajoPractico1\Entidades1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\felib\source\repos\TrabajoPractico1\Entidades1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\felib\source\repos\TrabajoPractico1\Entidades1\obj\Debug\Entidades1.dll
+C:\Users\felib\source\repos\TrabajoPractico1\Entidades1\obj\Debug\Entidades1.pdb
