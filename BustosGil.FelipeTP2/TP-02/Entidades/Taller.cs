@@ -9,7 +9,7 @@ namespace Entidades
     /// <summary>
     /// No podrá tener clases heredadas.
     /// </summary>
-    public class Taller
+    public sealed class Taller
     {
         List<Vehiculo> vehiculos;
         int espacioDisponible;
@@ -19,10 +19,19 @@ namespace Entidades
         }
 
         #region "Constructores"
+
+        /// <summary>
+        /// Constructor de tipo Taller, inicializa la lista de vehiculos
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+
+        /// <summary>
+        /// Constructor de tipo Taller, inicializa el atributo espacioDisponible con el espacio pasado pro parametro. Ademas invoca al constructor anterior para inicializar la lista
+        /// </summary>
+        /// <param name="espacioDisponible">Parametro de tipo int</param>
         public Taller(int espacioDisponible):this()
         {
             this.espacioDisponible = espacioDisponible;

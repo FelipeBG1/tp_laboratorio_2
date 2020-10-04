@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    //Clase publica Suv deriva de la clase Vehiculo
     public class Suv :Vehiculo
     {
+        #region Constructor
         public Suv(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
         }
+        #endregion
+
+        #region Propiedad
         /// <summary>
         /// Las camionetas son grandes
         /// </summary>
@@ -22,7 +27,14 @@ namespace Entidades
                 return ETamanio.Grande;
             }
         }
+        #endregion
 
+        #region Metodo
+
+        /// <summary>
+        /// Sobreescribe el método virtual Mostrar de la clase vehículo, para mostrar los datos del Suv
+        /// </summary>
+        /// <returns>Retorna un string con todos los datos del Suv</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -35,5 +47,6 @@ namespace Entidades
 
             return sb.ToString();
         }
+        #endregion
     }
 }
