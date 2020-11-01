@@ -1,0 +1,16 @@
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Test TP3.exe.config
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Test TP3.exe
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Test TP3.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Archivos.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\ClasesAbstractas.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Excepciones.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Archivos.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\ClasesAbstractas.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\bin\Debug\Excepciones.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\obj\Debug\Test TP3.csprojAssemblyReference.cache
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\obj\Debug\Test TP3.csproj.CoreCompileInputs.cache
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\obj\Debug\Test TP3.csproj.CopyComplete
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\obj\Debug\Test TP3.exe
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP3\Test TP3\obj\Debug\Test TP3.pdb
