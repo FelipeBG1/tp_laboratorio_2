@@ -347,11 +347,19 @@ namespace Formulario
         /// <param name="e"></param>
         private void Principal_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (this.hiloSecundario.IsAlive)
+            if (this.flagVendido && !this.flagComprobante)
             {
-                this.hiloSecundario.Abort();
+                MessageBox.Show("El cliente solicitó el comprobante de compra, hay que imprimirlo", "Comprobante solicitado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                e.Cancel = true;
             }
-
+            else
+            {
+                if (this.hiloSecundario.IsAlive)
+                {
+                    this.hiloSecundario.Abort();
+                }
+                
+            }        
         }
 
     #endregion
