@@ -249,8 +249,7 @@ namespace Formulario
                 if (verifica)
                 {
                     MessageBox.Show("Se generó el comprobante de compra con exito,lo encontrará en Documentos", "Comprobante", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    this.flagComprobante = true;
-                    this.flagVendido = false;
+                    this.flagComprobante = true;                  
                 }
                 else
                 {
@@ -307,6 +306,10 @@ namespace Formulario
                 if (this.flagVendido && !this.flagComprobante)
                 {
                     MessageBox.Show("El cliente solicitó el comprobante de compra, hay que imprimirlo", "Comprobante solicitado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+                else
+                {
+                    this.Close();
                 }
             }
         }
