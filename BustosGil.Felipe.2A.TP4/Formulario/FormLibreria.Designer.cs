@@ -104,9 +104,9 @@
             // lblPrecioLibro
             // 
             this.lblPrecioLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPrecioLibro.Location = new System.Drawing.Point(316, 23);
+            this.lblPrecioLibro.Location = new System.Drawing.Point(272, 23);
             this.lblPrecioLibro.Name = "lblPrecioLibro";
-            this.lblPrecioLibro.Size = new System.Drawing.Size(277, 37);
+            this.lblPrecioLibro.Size = new System.Drawing.Size(424, 37);
             this.lblPrecioLibro.TabIndex = 9;
             // 
             // lblActualizar
