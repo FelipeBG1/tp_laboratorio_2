@@ -1,0 +1,9 @@
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\bin\Debug\Archivos.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\obj\Debug\Archivos.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\obj\Debug\Archivos.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\bin\Debug\Excepciones.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Archivos\obj\Debug\Archivos.csproj.CopyComplete

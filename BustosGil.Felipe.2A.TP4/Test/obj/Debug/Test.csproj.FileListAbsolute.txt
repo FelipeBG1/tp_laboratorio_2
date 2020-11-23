@@ -1,0 +1,15 @@
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Test.exe
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Test.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\EntidadesTP4.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Archivos.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Excepciones.dll
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\EntidadesTP4.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\EntidadesTP4.dll.config
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Archivos.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\bin\Debug\Excepciones.pdb
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\obj\Debug\Test.exe
+C:\Users\felib\source\repos\BustosGil.Felipe.2A.TP4\Test\obj\Debug\Test.pdb
